@@ -1,1 +1,2 @@
 自定义样式viewpagerindicator
+  包括两部分：自定义tab里的view以及tab下的滑动指示器的样式
